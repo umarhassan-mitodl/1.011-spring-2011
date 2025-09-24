@@ -40,7 +40,7 @@ Martland, Carl D. *Toward More Sustainable Infrastructure: Project Evaluation fo
 
 Chapter assignments from this book and other readings can be found in the {{% resource_link "96b480fa-dee1-1dac-1a05-134adc9d261b" "Readings" %}} section of this course.
 
-[*Project Evaluation: Essays and Case Studies*](https://ocw.mit.edu/courses/res-1-001-project-evaluation-essays-and-case-studies-fall-2023/), based upon the textbook, is available as two stand-alone volumes. 
+{{% resource_link "19b25aba-bc57-47b6-a669-5f23ed2532a4" "*Project Evaluation: Essays and Case Studies*" %}}, based upon the textbook, is available as two stand-alone volumes. 
 
 ## Teaching Modalities
 
