@@ -1,0 +1,48 @@
+leftnav:
+- identifier: 089433c4-e77c-de6e-97b4-c7a46a4fadb4
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: eada1298-18a9-f76e-95e0-7a4808358f07
+  name: Subject Topics
+  pageRef: /pages/syllabus/subject-topics
+  parent: 089433c4-e77c-de6e-97b4-c7a46a4fadb4
+  weight: 20
+- identifier: 7a9554ab-ff1a-75b6-f6d6-88de3c324094
+  name: Keywords
+  pageRef: /pages/syllabus/keywords
+  parent: 089433c4-e77c-de6e-97b4-c7a46a4fadb4
+  weight: 30
+- identifier: 68d7529e-b7ae-bd8e-ba08-e5022e84beba
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 40
+- identifier: 96b480fa-dee1-1dac-1a05-134adc9d261b
+  name: Readings
+  pageRef: /pages/readings
+  weight: 50
+- identifier: 6215e093-3730-40f7-3b5c-cd424e8d46de
+  name: Textbook Resources
+  pageRef: /pages/textbook-resources
+  weight: 60
+- identifier: 3a422445-5433-4f71-bf03-20890ea05b4a
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 70
+- identifier: 33dce1c1-af39-ae75-989e-6f83a9b72843
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 80
+- identifier: 5d340f30-969a-28be-1f3e-f60996c1f18b
+  name: Exams
+  pageRef: /pages/exams
+  weight: 90
+- identifier: 314b9f96-fe11-689c-df83-246d3d760637
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 100
+- identifier: 6ae88a7c-13ea-9f8a-b8da-68a6c7343768
+  name: Project Evaluation Checklist
+  pageRef: /pages/projects/project-evaluation-checklist
+  parent: 314b9f96-fe11-689c-df83-246d3d760637
+  weight: 110
