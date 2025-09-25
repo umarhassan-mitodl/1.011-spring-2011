@@ -50,7 +50,7 @@ You will need to choose discount rates in a) and b). Be sure to provide a brief 
 
 Please carefully read the following article:
 
-Cheney, Kyle. "{{% resource_link "e5c4cc1a-bed1-4b50-a3e3-664004ec9c85" "Decaying Dams Pose Risk, Engineers Say" %}}." *Boston Globe*, March 15, 2011.
+Cheney, Kyle. "[Decaying Dams Pose Risk, Engineers Say](https://wolverines.wordpress.com/2011/03/15/decaying-dams-pose-risk-engineers-say/)." *Boston Globe*, March 15, 2011.
 
 This article discusses the condition of dams across the state of Massachusetts and highlights the various impacts of decay and the subsequent need for action. Senator Marc Pacheco has proposed a bill establishing a loan program to provide funding to cities and towns for repair or decommissioning of deteriorating dams.
 
