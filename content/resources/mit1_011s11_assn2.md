@@ -4,6 +4,8 @@ description: This resource contains the assignment 2 of this course.
 file: /courses/1-011-project-evaluation-spring-2011/314cb8ab4cb9504418c58f25ce5b326c_MIT1_011S11_assn2.pdf
 file_size: 565366
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

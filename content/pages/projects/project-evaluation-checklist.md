@@ -2,6 +2,8 @@
 content_type: page
 description: This page contains a list of issues that should be covered in the project
   evaluation report.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
