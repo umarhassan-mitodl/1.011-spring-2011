@@ -3,8 +3,6 @@ content_type: page
 description: This section provides an overview of the group project for the course,
   including motivation, instructions, logistics, project selection and analysis, feedback,
   and the list of project deliverables.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
